@@ -1,0 +1,13 @@
+
+<div class="comp" style="height:500px;">
+    
+  <button (click)="reset()">Reset count</button>
+    <div class="color-it">
+      <h2>Parent component</h2>
+        <div>
+          count from child: {{count}}
+        </div>
+       <app-child
+          [parentCount]="count"  (updateFromChild)="updateFromChild($event)"></app-child>
+    </div>
+  </div>

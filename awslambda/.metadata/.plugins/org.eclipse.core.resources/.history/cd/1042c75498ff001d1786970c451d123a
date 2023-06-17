@@ -1,0 +1,3 @@
+#prod uses mongodb
+app.server.name=prodprofile
+app.server.detail=prod profile

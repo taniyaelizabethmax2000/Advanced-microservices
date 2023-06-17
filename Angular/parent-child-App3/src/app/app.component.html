@@ -1,0 +1,8 @@
+<h3>Parent Component</h3>
+<label >There is a message from parent:{{value}}</label>
+
+
+<input type="button" value="send" (click)="send()" class="btn btn-primary">
+<app-child [parentData]="parentData" (sendto)="sendto($event)" ></app-child>
+
+

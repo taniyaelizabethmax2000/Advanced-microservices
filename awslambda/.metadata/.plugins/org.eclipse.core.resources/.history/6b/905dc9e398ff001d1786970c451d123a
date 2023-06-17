@@ -1,0 +1,4 @@
+#prod uses mongodb
+server.port=8094
+app.server.name=prodprofile
+app.server.detail=prod profile

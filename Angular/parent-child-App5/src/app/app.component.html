@@ -1,0 +1,19 @@
+<div>
+  <table>
+    <thead>
+      <th>ID</th>
+      <th>NAME</th>
+      <th>AGE</th>
+      <th>GENDER</th>
+    </thead>
+    <tbody>
+    <tr *ngFor = "let row of tableData">
+      <td>{{row.id}}</td>
+      <td>{{row.name}}</td>
+      <td>{{row.age}}</td>
+      <td>{{row.gender}}</td>
+    </tr>
+  </tbody>
+  </table>
+  <app-child (dataAdded) = "recievedDataFromChild($event)"></app-child>
+  </div>

@@ -1,0 +1,22 @@
+server.port=8091
+app.server.name=general
+app.server.detail=general profile
+spring.profiles.active=dev,prod,test
+
+
+
+
+
+
+#spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+#spring.datasource.url=jdbc:mysql://localhost:3306/sakila
+#spring.datasource.username=root
+#spring.datasource.password=pass@word1
+#spring.jpa.hibernate.ddl-auto=update
+#spring.jpa.database=mysql
+#spring.jpa.show-sql=true
+#spring.mvc.pathmatch.matching-strategy=ant-path-matcher
+
+
+
+#parent file others are child and what we are writing here is inherited by childs.

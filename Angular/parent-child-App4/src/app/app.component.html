@@ -1,0 +1,9 @@
+<p class="box">
+  <label>
+  Toggle Mode: 
+    <input type="checkbox" [(ngModel)]="mode">
+  </label>
+</p>
+
+
+<app-job-list [data]="list" [mode]="mode"></app-job-list>

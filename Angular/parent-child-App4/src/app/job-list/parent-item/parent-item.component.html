@@ -1,0 +1,10 @@
+<p>parent-item works!</p>
+<div class="box">
+	<label >
+  <input type="checkbox" [(ngModel)]="parent.checked" (click)="click($event)">
+  {{parent.name}}
+</label>
+</div>
+<ng-container *ngIf="mode">
+  <app-child-item *ngFor="let child of parent.children" [child]="child"></app-child-item>
+</ng-container>

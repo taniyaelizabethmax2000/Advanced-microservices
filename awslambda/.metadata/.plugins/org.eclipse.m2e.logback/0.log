@@ -1,0 +1,286 @@
+2023-05-30 18:11:30,731 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-30 18:13:20,516 [Worker-3: Creating project "com.ust.awslambda"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ust.awslambda:com.ust.awslambda:0.0.1-SNAPSHOT @ D:\awslambda\com.ust.awslambda\pom.xml.
+2023-05-30 18:13:21,354 [Worker-3: Creating project "com.ust.awslambda"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.ust.awslambda/src/main/java
+2023-05-30 18:13:21,357 [Worker-3: Creating project "com.ust.awslambda"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /com.ust.awslambda/src/main/resources
+2023-05-30 18:13:21,359 [Worker-3: Creating project "com.ust.awslambda"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.ust.awslambda/src/test/java
+2023-05-30 18:13:21,359 [Worker-3: Creating project "com.ust.awslambda"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /com.ust.awslambda/src/test/resources
+2023-05-30 18:13:22,645 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-30 18:13:22,652 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-30 18:13:22,657 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-30 18:13:22,659 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-30 18:17:21,642 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-30 18:17:21,666 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-30 18:17:21,669 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-30 18:17:21,670 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-30 18:18:01,341 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-30 18:18:01,343 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-30 18:18:01,346 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-30 18:18:01,347 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-30 18:18:02,365 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-30 18:18:02,366 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-30 18:18:02,369 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-30 18:18:02,370 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-30 18:32:28,522 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-30 18:32:28,523 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-30 18:32:28,525 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-30 18:32:28,526 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-30 18:33:46,690 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149 [267])
+2023-05-30 18:33:46,696 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149
+2023-05-30 18:33:46,696 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\aether-connector-okhttp-0.17.8.jar
+2023-05-30 18:33:46,696 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-cli-1.4.jar
+2023-05-30 18:33:46,696 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-io-2.6.jar
+2023-05-30 18:33:46,697 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-lang3-3.8.1.jar
+2023-05-30 18:33:46,697 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\guice-4.2.2-no_aop.jar
+2023-05-30 18:33:46,697 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\jansi-2.4.0.jar
+2023-05-30 18:33:46,697 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-artifact-3.8.6.jar
+2023-05-30 18:33:46,697 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-builder-support-3.8.6.jar
+2023-05-30 18:33:46,697 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-compat-3.8.6.jar
+2023-05-30 18:33:46,698 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-core-3.8.6.jar
+2023-05-30 18:33:46,698 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-embedder-3.8.6.jar
+2023-05-30 18:33:46,698 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-model-3.8.6.jar
+2023-05-30 18:33:46,698 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-model-builder-3.8.6.jar
+2023-05-30 18:33:46,698 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-plugin-api-3.8.6.jar
+2023-05-30 18:33:46,699 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-repository-metadata-3.8.6.jar
+2023-05-30 18:33:46,699 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-api-1.6.3.jar
+2023-05-30 18:33:46,699 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-connector-basic-1.6.3.jar
+2023-05-30 18:33:46,699 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-impl-1.6.3.jar
+2023-05-30 18:33:46,699 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-provider-3.8.6.jar
+2023-05-30 18:33:46,699 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-spi-1.6.3.jar
+2023-05-30 18:33:46,700 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-transport-wagon-1.6.3.jar
+2023-05-30 18:33:46,700 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-util-1.6.3.jar
+2023-05-30 18:33:46,700 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-settings-3.8.6.jar
+2023-05-30 18:33:46,700 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-settings-builder-3.8.6.jar
+2023-05-30 18:33:46,700 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-shared-utils-3.3.4.jar
+2023-05-30 18:33:46,700 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\okhttp-3.14.1.jar
+2023-05-30 18:33:46,701 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\okio-1.17.3.jar
+2023-05-30 18:33:46,701 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\org.eclipse.sisu.inject-0.3.5.jar
+2023-05-30 18:33:46,701 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2023-05-30 18:33:46,702 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-build-api-0.0.7.jar
+2023-05-30 18:33:46,702 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-cipher-2.0.jar
+2023-05-30 18:33:46,702 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-classworlds-2.6.0.jar
+2023-05-30 18:33:46,702 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-component-annotations-2.1.0.jar
+2023-05-30 18:33:46,702 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-interpolation-1.26.jar
+2023-05-30 18:33:46,702 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-sec-dispatcher-2.0.jar
+2023-05-30 18:33:46,703 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-utils-3.3.1.jar
+2023-05-30 18:33:46,703 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\wagon-file-3.5.1.jar
+2023-05-30 18:33:46,703 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\wagon-provider-api-3.5.1.jar
+2023-05-30 18:33:46,705 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_30.1.0.v20221112-0806 [8])
+2023-05-30 18:33:46,709 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\com.google.guava_30.1.0.v20221112-0806.jar
+2023-05-30 18:33:46,709 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [431])
+2023-05-30 18:33:46,710 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\slf4j.api_1.7.36.jar
+2023-05-30 18:33:46,711 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [18])
+2023-05-30 18:33:46,712 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2023-05-30 18:33:46,712 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221112-0806 [16])
+2023-05-30 18:33:46,714 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Administrator\.p2\pool\plugins\javax.annotation_1.3.5.v20221112-0806.jar
+2023-05-30 18:33:46,717 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "D:\awslambda\com.ust.awslambda":
+2023-05-30 18:33:46,723 [Worker-15: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean
+2023-05-30 18:33:51,039 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-30 18:33:51,040 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-30 18:33:51,043 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-30 18:33:51,045 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-30 18:34:06,541 [Worker-15: Launching Executing install in D__awslambda_com.ust.awslambda] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "D:\awslambda\com.ust.awslambda":
+2023-05-30 18:34:06,541 [Worker-15: Launching Executing install in D__awslambda_com.ust.awslambda] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2023-05-30 18:34:12,203 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-30 18:34:12,204 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-30 18:34:12,207 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-30 18:34:12,208 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-30 18:36:39,575 [Worker-17: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "D:\awslambda\com.ust.awslambda":
+2023-05-30 18:36:39,576 [Worker-17: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean
+2023-05-30 18:36:42,452 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-30 18:36:42,454 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-30 18:36:42,459 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-30 18:36:42,462 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-30 18:36:56,087 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-05-30 18:37:09,698 [Worker-20: Launching com.ust.awslambda] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "D:\awslambda\com.ust.awslambda":
+2023-05-30 18:37:09,699 [Worker-20: Launching com.ust.awslambda] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always package
+2023-05-30 18:38:09,624 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-30 18:38:10,182 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ust.awslambda:com.ust.awslambda:0.0.1-SNAPSHOT @ D:\awslambda\com.ust.awslambda\pom.xml.
+2023-05-30 18:38:10,369 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.ust.awslambda/src/main/java
+2023-05-30 18:38:10,370 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /com.ust.awslambda/src/main/resources
+2023-05-30 18:38:10,370 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.ust.awslambda/src/test/java
+2023-05-30 18:38:10,370 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /com.ust.awslambda/src/test/resources
+2023-05-30 18:38:10,452 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-05-30 18:38:10,606 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-30 18:38:10,607 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-30 18:38:10,611 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-30 18:38:10,612 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-30 18:38:19,294 [Worker-21: Launching Executing install in D__awslambda_com.ust.awslambda] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "D:\awslambda\com.ust.awslambda":
+2023-05-30 18:38:19,295 [Worker-21: Launching Executing install in D__awslambda_com.ust.awslambda] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2023-05-30 18:38:26,015 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-30 18:38:26,018 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-30 18:38:26,023 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-30 18:38:26,025 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-30 19:04:52,794 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-30 19:04:52,796 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-30 19:04:52,798 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-30 19:04:52,799 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-30 19:06:33,686 [Worker-24: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "D:\awslambda\com.ust.awslambda":
+2023-05-30 19:06:33,686 [Worker-24: Launching Executing clean in D__awslambda_com.ust.awslambda] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean
+2023-05-30 19:06:36,708 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-30 19:06:36,709 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-30 19:06:36,711 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-30 19:06:36,712 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-30 19:06:43,062 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2023-05-30 19:06:43,141 [Worker-27: Launching com.ust.awslambda] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "D:\awslambda\com.ust.awslambda":
+2023-05-30 19:06:43,142 [Worker-27: Launching com.ust.awslambda] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always package
+2023-05-30 19:07:13,115 [Worker-27: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-30 19:07:13,694 [Worker-27: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ust.awslambda:com.ust.awslambda:0.0.1-SNAPSHOT @ D:\awslambda\com.ust.awslambda\pom.xml.
+2023-05-30 19:07:13,874 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.ust.awslambda/src/main/java
+2023-05-30 19:07:13,874 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /com.ust.awslambda/src/main/resources
+2023-05-30 19:07:13,875 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.ust.awslambda/src/test/java
+2023-05-30 19:07:13,875 [Worker-27: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /com.ust.awslambda/src/test/resources
+2023-05-30 19:07:13,944 [Worker-27: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-05-30 19:07:14,129 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-30 19:07:14,130 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-30 19:07:14,134 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-30 19:07:14,135 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-30 19:07:28,098 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2023-05-30 19:07:28,184 [Worker-27: Launching com.ust.awslambda] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "D:\awslambda\com.ust.awslambda":
+2023-05-30 19:07:28,185 [Worker-27: Launching com.ust.awslambda] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always package
+2023-05-30 19:09:54,699 [Worker-28: Launching Executing install in D__awslambda_com.ust.awslambda] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "D:\awslambda\com.ust.awslambda":
+2023-05-30 19:09:54,700 [Worker-28: Launching Executing install in D__awslambda_com.ust.awslambda] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2023-05-30 19:09:59,826 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-30 19:09:59,830 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-30 19:09:59,833 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-30 19:09:59,834 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 14:36:58,950 [Worker-27: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ust.rest:firstrest-app:0.0.1-SNAPSHOT @ D:\module3\mvc\firstrestmysqljpa\pom.xml.
+2023-05-31 14:37:03,123 [Worker-27: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /firstrest-app/src/main/java
+2023-05-31 14:37:03,124 [Worker-27: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /firstrest-app/src/main/resources
+2023-05-31 14:37:03,125 [Worker-27: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /firstrest-app/src/main/resources
+2023-05-31 14:37:03,126 [Worker-27: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /firstrest-app/src/test/java
+2023-05-31 14:37:03,646 [Worker-27: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
+2023-05-31 14:37:04,949 [Worker-33: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-31 14:37:05,762 [Worker-33: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ust.rest:firstrest-app:0.0.1-SNAPSHOT @ D:\module3\mvc\firstrestmysqljpa\pom.xml.
+2023-05-31 14:37:07,159 [Worker-33: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /firstrest-app/src/main/java
+2023-05-31 14:37:07,161 [Worker-33: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /firstrest-app/src/main/resources
+2023-05-31 14:37:07,162 [Worker-33: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /firstrest-app/src/main/resources
+2023-05-31 14:37:07,165 [Worker-33: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /firstrest-app/src/test/java
+2023-05-31 14:37:07,800 [Worker-33: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 0.00 sec 
+2023-05-31 14:41:49,300 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-31 14:42:23,446 [Worker-14: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ust.rest:firstrest-app:0.0.1-SNAPSHOT @ D:\module3\mvc\firstrestmysqljpa\pom.xml.
+2023-05-31 14:42:25,170 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /firstrest-app/src/main/java
+2023-05-31 14:42:25,171 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /firstrest-app/src/main/resources
+2023-05-31 14:42:25,172 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /firstrest-app/src/main/resources
+2023-05-31 14:42:25,173 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /firstrest-app/src/test/java
+2023-05-31 14:42:25,509 [Worker-14: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2023-05-31 15:27:17,728 [Worker-37: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ust.rest:firstrest-app:0.0.1-SNAPSHOT @ D:\module3\mvc\firstrestmysqljpa\pom.xml.
+2023-05-31 15:27:18,772 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-31 15:27:18,772 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-31 15:27:18,775 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 15:27:18,775 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 15:27:18,779 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-31 15:27:18,780 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-31 15:27:18,780 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\module3\mvc\firstrestmysqljpa\src\test\resources
+2023-05-31 15:27:20,393 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-31 15:27:20,393 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-31 15:27:20,397 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2023-05-31 15:27:20,424 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 15:27:20,434 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-31 15:27:20,434 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-31 15:27:20,434 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\module3\mvc\firstrestmysqljpa\src\test\resources
+2023-05-31 15:30:09,429 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-31 15:30:09,430 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-31 15:30:09,433 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-31 15:30:09,463 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 15:30:09,471 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-31 15:30:09,472 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-31 15:30:09,472 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\module3\mvc\firstrestmysqljpa\src\test\resources
+2023-05-31 15:31:32,601 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-31 15:31:32,602 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-31 15:31:32,603 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-31 15:31:32,616 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 15:31:32,621 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-31 15:31:32,621 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-31 15:31:32,621 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\module3\mvc\firstrestmysqljpa\src\test\resources
+2023-05-31 15:32:37,488 [Worker-44: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ust.rest:firstrest-app:0.0.1-SNAPSHOT @ D:\module3\mvc\firstrestmysqljpa\pom.xml.
+2023-05-31 15:32:38,588 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-31 15:32:38,588 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-31 15:32:38,592 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-31 15:32:38,648 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 15:32:38,654 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-31 15:32:38,654 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-31 15:32:38,654 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\module3\mvc\firstrestmysqljpa\src\test\resources
+2023-05-31 15:32:40,444 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-31 15:32:40,444 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-31 15:32:40,445 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2023-05-31 15:32:40,452 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 15:32:40,455 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-31 15:32:40,455 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-31 15:32:40,455 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\module3\mvc\firstrestmysqljpa\src\test\resources
+2023-05-31 15:33:40,077 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-31 15:33:40,077 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-31 15:33:40,077 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-31 15:33:40,092 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 15:33:40,095 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-31 15:33:40,096 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-31 15:33:40,096 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\module3\mvc\firstrestmysqljpa\src\test\resources
+2023-05-31 15:34:17,517 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-31 15:34:17,517 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-31 15:34:17,518 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-31 15:34:17,526 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 15:34:17,531 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-31 15:34:17,531 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-31 15:34:17,532 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\module3\mvc\firstrestmysqljpa\src\test\resources
+2023-05-31 15:39:08,851 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-31 15:39:14,427 [Worker-2: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ust.awslambda:com.ust.awslambda:0.0.1-SNAPSHOT @ D:\awslambda\com.ust.awslambda\pom.xml.
+2023-05-31 15:39:14,428 [Worker-4: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ust.rest:firstrest-app:0.0.1-SNAPSHOT @ D:\module3\mvc\firstrestmysqljpa\pom.xml.
+2023-05-31 15:39:16,578 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-31 15:39:16,606 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 15:39:16,619 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-31 15:39:16,620 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 15:39:17,015 [Worker-4: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ust.rest:firstrest-app:0.0.1-SNAPSHOT @ D:\module3\mvc\firstrestmysqljpa\pom.xml.
+2023-05-31 15:39:18,086 [Worker-4: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ust.awslambda:com.ust.awslambda:0.0.1-SNAPSHOT @ D:\awslambda\com.ust.awslambda\pom.xml.
+2023-05-31 15:39:18,443 [Worker-2: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ust.rest:firstrest-app:0.0.1-SNAPSHOT @ D:\module3\mvc\firstrestmysqljpa\pom.xml.
+2023-05-31 15:39:20,770 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-31 15:39:20,771 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-31 15:39:20,772 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2023-05-31 15:39:20,804 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 15:39:20,809 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-31 15:39:20,809 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-31 15:39:20,809 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\module3\mvc\firstrestmysqljpa\src\test\resources
+2023-05-31 15:39:22,182 [Worker-4: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ust.rest:firstrest-app:0.0.1-SNAPSHOT @ D:\module3\mvc\firstrestmysqljpa\pom.xml.
+2023-05-31 15:39:23,279 [Worker-4: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ust.awslambda:com.ust.awslambda:0.0.1-SNAPSHOT @ D:\awslambda\com.ust.awslambda\pom.xml.
+2023-05-31 15:39:24,684 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-31 15:39:24,703 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 15:39:24,707 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-31 15:39:24,708 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 15:39:25,124 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-31 15:39:25,125 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-31 15:39:25,127 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 15:39:25,127 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 15:39:25,131 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-31 15:39:25,132 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-31 15:39:25,132 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\module3\mvc\firstrestmysqljpa\src\test\resources
+2023-05-31 15:40:31,102 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-31 15:40:31,103 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-31 15:40:31,105 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-31 15:40:31,123 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 15:40:31,127 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-31 15:40:31,127 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-31 15:40:31,127 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\module3\mvc\firstrestmysqljpa\src\test\resources
+2023-05-31 15:40:51,663 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-31 15:40:51,663 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-31 15:40:51,663 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-31 15:40:51,688 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 15:40:51,696 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-31 15:40:51,696 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-31 15:40:51,696 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\module3\mvc\firstrestmysqljpa\src\test\resources
+2023-05-31 15:50:58,281 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-31 15:51:02,198 [Worker-2: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ust.rest:firstrest-app:0.0.1-SNAPSHOT @ D:\module3\mvc\firstrestmysqljpa\pom.xml.
+2023-05-31 15:51:02,982 [Worker-2: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ust.awslambda:com.ust.awslambda:0.0.1-SNAPSHOT @ D:\awslambda\com.ust.awslambda\pom.xml.
+2023-05-31 15:51:08,150 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-31 15:51:08,156 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 15:51:08,160 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-31 15:51:08,161 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 15:51:10,204 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-31 15:51:10,205 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-31 15:51:10,208 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2023-05-31 15:51:10,294 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 15:51:10,301 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-31 15:51:10,301 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-31 15:51:10,301 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\module3\mvc\firstrestmysqljpa\src\test\resources
+2023-05-31 15:51:33,674 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-31 15:51:33,676 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 15:51:33,679 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-31 15:51:33,679 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-31 15:52:46,849 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
